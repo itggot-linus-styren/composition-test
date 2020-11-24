@@ -78,6 +78,7 @@
 </template>
 
 <script lang="ts">
+import Vue from "vue";
 import { reactive, ref, defineComponent } from "@vue/composition-api";
 
 export default defineComponent({
